@@ -29,3 +29,6 @@ The visualization segment was completely handled in Power BI, creating a compreh
 
 Note: I couldn't able to share the direct link due to subscription issues, will try to do that soon.
 
+
+Power bi - https://app.powerbi.com/groups/me/reports/f6a7dcdc-f1c0-4cfb-a062-3584c78ecc13/ReportSection?experience=power-bi
+
