@@ -20,7 +20,7 @@ The visualization segment was completely handled in Power BI, creating a compreh
 <img width="532" alt="Screenshot 2023-11-01 112903" src="https://github.com/Sudhanshu1st/powerbi-dataprofessional/assets/109865453/65c9d99f-ecc1-4a1d-a2c5-98ce2ece5d66">
 
 - Dashboard Overview
-<img width="509" alt="Screenshot 2023-11-01 112947" src="https://github.com/Sudhanshu1st/powerbi-dataprofessional/assets/109865453/a16f4c60-d2e7-4f74-a00e-241e1d582aef">
+<img width="509" alt="Screenshot 2023-11-01 112947" src="https://raw.githubusercontent.com/Gokul-Raja84/Power-BI-Interactive-Dashboard-Projects/main/Data%20Professional%20Survey/Data%20Profession%20Analysis%20Dashboard.jpg">
 
 ## Components of the Repository
 - **MySQL Queries:** SQL queries used for dataset analysis in MySQL.
