@@ -61,15 +61,13 @@ Access the Power BI dashboard to explore these visualizations in a dynamic and i
 
 MySQL Queries: Collection of SQL queries utilized for in-depth dataset analysis in MySQL.
 
-### Feedback and Contributions
-
-I value your feedback and encourage contributions to enhance the Sales Report Dashboard. If you have suggestions, improvements, or encounter any issues, please feel free to raise them in the Issues section or Contact me - gokulraja840@gmail.com
-
-Happy analyzing! 🚀
-
 Excel Files: Supplementary files used for specific data analysis and manipulation within Excel.
 
 Power BI Dashboard: Contains the Power BI dashboard providing a visual representation of the analyzed data.
 
 
+### Feedback and Contributions
 
+I value your feedback and encourage contributions to enhance the Sales Report Dashboard. If you have suggestions, improvements, or encounter any issues, please feel free to raise them in the Issues section or Contact me - gokulraja840@gmail.com
+
+Happy analyzing! 🚀
