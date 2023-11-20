@@ -18,10 +18,9 @@ Excel: Supplementary data analysis and manipulation conducted in Excel to meet s
 2. Data Visualization
 The visualization segment was exclusively managed in Power BI, resulting in a robust dashboard that encapsulates the essence of the analyzed data.
 
-- Relationship Diagram Model 
-<img width="532" alt="Screenshot 2023-11-01 112903" src="https://github.com/Sudhanshu1st/powerbi-dataprofessional/assets/109865453/65c9d99f-ecc1-4a1d-a2c5-98ce2ece5d66">
-
 - Dashboard Overview
+
+
 <img width="509" alt="Screenshot 2023-11-01 112947" src="https://raw.githubusercontent.com/Gokul-Raja84/Power-BI-Interactive-Dashboard-Projects/main/Data%20Professional%20Survey/Data%20Profession%20Analysis%20Dashboard.jpg">
 
 ## Key Tasks and Visualizations
