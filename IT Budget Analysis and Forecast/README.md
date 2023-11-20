@@ -54,3 +54,6 @@ Feel free to interact with the data, customize the reports, and uncover valuable
 
 Summary
 This project is a comprehensive journey through IT budget analysis and forecasting using Power BI, offering a rich set of visualizations, interactive dashboards, and advanced features for effective data-driven decision-making.
+
+
+power bi - https://app.powerbi.com/groups/me/reports/c13f2f15-5f08-43c5-b3cb-c1b508eb261d/ReportSection9828415fc69deae445d7?experience=power-bi
