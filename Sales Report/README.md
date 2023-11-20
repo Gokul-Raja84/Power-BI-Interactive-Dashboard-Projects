@@ -25,8 +25,8 @@ Easily compare the distribution of sales across categories in terms of both quan
 
 3. Quantity by Payment Mode (Donut Chart)
 Another donut chart focuses on the distribution of sales quantity based on different payment modes.
-
 Understand how different payment methods contribute to overall sales quantity.
+
 4. Profit by Month (Line Chart)
 The line chart provides a dynamic view of profit trends over time, organized by months.
 Identify patterns, seasonality, or any trends in your monthly profits.
