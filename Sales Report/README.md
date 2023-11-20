@@ -77,9 +77,7 @@ Leverage filters, slicers, and other interactive features to delve deeper into t
 
 ### Feedback and Contributions
 
-We value your feedback and encourage contributions to enhance the Sales Report Dashboard. If you have suggestions, improvements, or encounter any issues, please feel free to raise them in the Issues section.
-
-Thank you for utilizing the Sales Report Dashboard. We trust it will empower your team with actionable insights for improved decision-making.
+I value your feedback and encourage contributions to enhance the Sales Report Dashboard. If you have suggestions, improvements, or encounter any issues, please feel free to raise them in the Issues section or Contact me - gokulraja840@gmail.com
 
 Happy analyzing! 🚀
 
