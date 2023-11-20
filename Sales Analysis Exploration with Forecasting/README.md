@@ -4,6 +4,22 @@ Power BI Project - Sales Dashboard
 Overview
 This Power BI project is an in-depth exploration of data cleaning, processing, and advanced visualization techniques using the Super Store sales dataset. It encompasses various key aspects of Power BI, from data preparation to forecasting, resulting in a comprehensive Sales Dashboard.
 
+
+Certainly! Here's the updated section for the Forecast in the README:
+
+Forecasting in Power BI
+In this project, I incorporated advanced data analysis techniques, specializing in time series analysis, to provide accurate sales forecasting and deliver valuable insights. The forecasting feature in Power BI was utilized to predict future sales trends based on historical data.
+
+Key Highlights:
+Time Series Analysis:
+Applied specialized techniques for analyzing time series data, enabling a deeper understanding of sales patterns over time.
+
+Accurate Sales Forecasting:
+Leveraged Power BI's forecasting capabilities to generate accurate predictions, aiding in proactive decision-making and resource planning.
+
+Interactive Dashboard Creation:
+Integrated the forecast results seamlessly into an interactive dashboard. Users can explore forecasted trends alongside historical data for a comprehensive view.
+
 Topics Covered
 Data Cleaning & Processing in Power BI:
 
