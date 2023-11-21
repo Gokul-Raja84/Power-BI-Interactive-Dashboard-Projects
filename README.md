@@ -5,6 +5,10 @@
 
 Welcome to the Power BI Projects repository! This collection showcases various projects demonstrating my skills in creating insightful visualizations and analyses using Microsoft Power BI.
 
+
+![power bi projs collage](https://github.com/Gokul-Raja84/Power-BI-Interactive-Dashboard-Projects/assets/106546785/2111d998-8c4c-4620-8686-f361e01cd685)
+
+
 ## Projects
 
 
