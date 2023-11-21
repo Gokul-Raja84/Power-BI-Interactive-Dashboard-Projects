@@ -73,12 +73,17 @@ The Sales Report Dashboard project signifies the creation of an interactive and 
 
 ---
 
-Feel free to use or modify these summaries as needed for your documentation or resume!
+### Acknowledgments
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
+- Feel Free to Explore and Experiment, I encourage you to explore the project, expriment with different data analysis approaches, and contribute to improving the analysis, visualizations, and insights. Your contributions and innovative ideas can be pivotal in advancing this project's effectiveness and generating valuable outcomes
 
 - Special thanks to the Power BI community for inspiration and support.
+
+### Contact
+For feedback, suggestions, or collaborations, feel free to connect with me : Contact Me - Gokul Raja - gokulraja840@gmail.com
+
+
+
+### License
+
+This project is licensed under the [MIT License](LICENSE).
